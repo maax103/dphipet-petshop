@@ -1,4 +1,4 @@
-## Inicializando aplicação
+## Iniciando a aplicação
 
 Dentro da pasta do projeto execute o comando:
  <code>docker-compose up</code>
